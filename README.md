@@ -2,6 +2,7 @@
 Recreating a famous website
 
 Features
+<br>
 Multi-Vendor Architecture: Allows multiple vendors to register, manage their own products, and sell on a single platform.
 <br>
 Customer-Facing Storefront: A beautiful and responsive user interface for customers to browse and purchase products.
